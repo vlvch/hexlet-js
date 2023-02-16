@@ -1,0 +1,19 @@
+{
+  "name": "hexlet-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/vlvch/hexlet-js.git"
+  },
+  "author": "vlvch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlvch/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/vlvch/hexlet-js#readme"
+}
